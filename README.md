@@ -1,2 +1,5 @@
-# Pro_CS-GO_Match_Prediction
+# Pro CS-GO Match Prediction
+
+![](banner.jpg)
+
 Attempt to predict the outcome of professional CS:GO games
