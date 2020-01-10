@@ -6,5 +6,6 @@
 
 **Goal**: Attempt to predict the outcome of professional CS:GO games through web scraping stats off of HLTV.org and applying machine learning techniques <br>
 
-
+<br>
+<br>
 **Project Author:** Nick Solovyev
